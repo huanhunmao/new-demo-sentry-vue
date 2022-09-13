@@ -1,6 +1,0 @@
-[auth]
-token='eaeeee324d5c4b71a99dca50adf7a28229ad76bdff0446bba0cf57c02d6504b4'
-[defaults]
-project='javascript-vue'
-org=sentry
-url=https://sentry.io/
